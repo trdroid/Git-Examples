@@ -5,7 +5,7 @@ git remote set-url origin
 
 
 
-git branch --set-upstream-to=origin/master master
+In case of the following
 
 ```
 There is no tracking information for the current branch.
@@ -18,3 +18,7 @@ If you wish to set tracking information for this branch you can do so with:
 
     git branch --set-upstream-to=origin/<branch> master
 ```
+
+Perform 
+
+git branch --set-upstream-to=origin/master master
