@@ -1,6 +1,24 @@
-git remote add origin
+**To add a Remote Respository**
 
-git remote set-url origin 
+git remote add origin git@\<repository\>.git
+
+**To add another Remote Repository**
+
+git remote add \<anotherRemoteRepHandlerName\> git@\<repository\>.git
+
+**To Reset a Remote Repository**
+
+git remote set-url origin git@\<repository\>.git
+
+**To push to default Remote Repository**
+
+The repository pointed to by "origin" is the default remote repository
+
+> git push
+
+or
+
+> git push origin
 
 
 
