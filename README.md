@@ -52,6 +52,6 @@ If you wish to set tracking information for this branch you can do so with:
 
 Perform 
 
-git pull <remote> master
+> git pull <remote> master
 
-git branch --set-upstream-to=origin/master master
+> git branch --set-upstream-to=origin/master master
