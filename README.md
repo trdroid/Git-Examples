@@ -20,6 +20,10 @@ or
 
 > git push origin 
 
+or 
+
+> git push origin master
+
 **To pull from the default Remote Repository**
 
 > git pull
