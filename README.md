@@ -18,10 +18,19 @@ The repository pointed to by "origin" is the default remote repository
 
 or
 
-> git push origin
+> git push origin 
 
+**To pull from the default Remote Repository**
 
+> git pull
 
+**To push to a Remote Repository pointed by another handler**
+
+> git push \<anotherRemoteRepHandlerName\> master
+
+** To pull from a Remote Repository pointed by another handler**
+
+> git pull \<anotherRemoteRepHandlerName\> master
 
 In case of the following
 
