@@ -28,7 +28,7 @@ or
 
 > git push \<anotherRemoteRepHandlerName\> master
 
-** To pull from a Remote Repository pointed by another handler**
+**To pull from a Remote Repository pointed by another handler**
 
 > git pull \<anotherRemoteRepHandlerName\> master
 
