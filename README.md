@@ -55,3 +55,11 @@ Perform
 > git pull <remote> master
 
 > git branch --set-upstream-to=origin/master master
+
+### Viewing information about Github profile for the user gruprog
+
+<https://api.github.com/users/gruprog>
+
+Follow the "repos_url" link to get information about the repositories owned by gruprog
+
+<https://api.github.com/users/gruprog/repos>
