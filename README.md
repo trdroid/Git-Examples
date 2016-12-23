@@ -128,7 +128,7 @@ $ clip < ~/.ssh/id_rsa.pub
 
 6) Add the public key to bitbucket/github
 
-7) 
+7) Make sure that the ssh-agent is running on the local machine
 
 ```sh
 MINGW64 /c/onGit
