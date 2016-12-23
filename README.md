@@ -126,7 +126,7 @@ MINGW64 /c/onGit
 $ clip < ~/.ssh/id_rsa.pub
 ```
 
-6) Add the public key to bitbucket/github
+6) Add the public key to bitbucket and/or github; NOTE: If a single public key is used for both bitbucket and github accounts, the a single private key added to a local ssh-agent would suffice to interact with both the accounts. 
 
 7) Make sure that the ssh-agent is running on the local machine
 
