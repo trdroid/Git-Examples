@@ -147,9 +147,11 @@ Identity added: /c/Users/username/.ssh/id_rsa (/c/Users/username/.ssh/id_rsa)
 
 9) Verify if the private key has be added to the ssh-agent running on the local machine
 
+```sh
 MINGW64 /c/onGit
 $ ssh-add -l
 4096 SHA256:<43-Characters> /c/Users/username/.ssh/id_rsa (RSA)
+```
 
 10) Clone the repository now
 
